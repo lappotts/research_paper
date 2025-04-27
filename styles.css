@@ -63,3 +63,12 @@ section p {
     border-radius: 8px;
 }
 
+.section-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 2rem auto;
+    border-radius: 8px; /* optional, soft round corners */
+}
+
+
